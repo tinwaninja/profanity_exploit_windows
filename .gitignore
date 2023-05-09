@@ -1,0 +1,10 @@
+# Makefile artifacts
+*.o
+*.so
+cache-opencl.*
+bin
+seeds/
+.vscode/
+cache/
+.DS_Store
+*.x64
